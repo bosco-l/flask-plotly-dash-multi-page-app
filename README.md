@@ -220,15 +220,15 @@ if __name__ == '__main__':
 
 ## Personal Project Example
 
-Dash is an extremely powerful framework to build interactive, complex web apps to visualize data analytics. It would be
-fascinating if you could integrate Dash into work, study, or own business.
-
-Here is an example of a project that I have already deployed to AWS, and shared with members. It works well in the app
-interaction and connection to SQL database (e.g. AWS RDS).
+Here is an example of a personal project that I have already deployed to AWS, and shared with other developers. It works
+well in the app interaction and connection to SQL database (e.g. AWS RDS).
 
 ![](static/project_example.png)
 
+Dash is a low-code framework to craft interactive, complex web apps to visualize data analytics with customized user
+interfaces. Plus, it could be rapidly integrated into your work, study, or own business. Navigate to
+the [documentation](https://dash.plotly.com/installation) and start building your first Dash app now!
+
 ## License
 
-See the [LICENSE](LICENSE.md) file for license rights and
-limitations (MIT).
+See the [LICENSE](LICENSE.md) file for license rights and limitations (MIT).
